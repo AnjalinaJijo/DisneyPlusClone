@@ -16,7 +16,7 @@ import 'firebase/auth';
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyA3c33V_LNIoccLOjqCHxfS3nHMUFYSSk0",
+    apiKey: "AIzaSyA3c33V",
     authDomain: "disneyplus-clone-4862b.firebaseapp.com",
     projectId: "disneyplus-clone-4862b",
     storageBucket: "disneyplus-clone-4862b.appspot.com",
